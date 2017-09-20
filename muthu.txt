@@ -1,4 +1,6 @@
 hi muthu
+have a  nice day
 saravanan is learning github
-adding something in master
+now trying to push directly
+
 
